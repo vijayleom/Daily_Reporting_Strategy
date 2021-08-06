@@ -47,4 +47,4 @@ Now to configure this in window's scheduler to automate the process on a daily b
 
 Now the schedule Powershell Task will keep running on a scheduled basis by the Task Schedule as configured!
 
-A sample CSV is here for reference: [Elastic](https://github.com/vijayleom/Daily_Reporting_Strategy/blob/master/DETAIL_REPORT_SHEET.csv))
+A sample CSV is here for reference: [Detailed Report](https://github.com/vijayleom/Daily_Reporting_Strategy/blob/master/DETAIL_REPORT_SHEET.csv)
