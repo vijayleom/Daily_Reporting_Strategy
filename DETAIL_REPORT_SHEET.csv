@@ -1,0 +1,10 @@
+#TYPE System.Data.DataRow
+"id","name","address","is_active"
+"1","Vijay","Avadi, Chennai","Y"
+"2","Rajesh","Thomas Mount, Chennai","N"
+"3","Simon","Race Course, Chennai","N"
+"4","Victor","Demonte Colony, Chennai","Y"
+"5","Harish","Anna Nagar, Chennai","N"
+"6","Kurnal","Kilpauk, Chennai","Y"
+"7","Grady","Avadi, Chennai","Y"
+"8","Maple","Egmore, Chennai","Y"
